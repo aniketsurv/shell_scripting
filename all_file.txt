@@ -1,0 +1,50 @@
+AniketWorkSpace
+apache-maven-3.0.5
+app
+arduino-ide_2.2.1_Linux_64bit.zip
+AWS
+b.js
+CopyDb
+Desktop
+device.js
+Documents
+Downloads
+eclipse-jee-photon
+edgecompute
+examples.desktop
+export
+export-leftpanel
+file1
+flow1
+hubInstallationMochaScripts
+interview Questions
+MainBranch
+Mochaaa
+Mochaaarrr
+Music
+ncplind.conf
+node_modules
+package.json
+package-lock.json
+Pictures
+Public
+purebluescript.sh
+RaspToEsp
+receiver
+request & response
+script_all.sh
+sensorcode
+ServeshNode
+SetPortRemotely
+shellScripingTutorial
+Shell Scripting
+sketchbook
+snap
+ssh_commands (2) (1)
+Task backup
+Templates
+transmitter.py
+udp.js
+Videos
+workspace
+Hii
